@@ -9,27 +9,27 @@ A data frame with 5 columns:
 \itemize{
 \item \code{Address}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description is provided for this table
 }
 \item \code{DYCOL01}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description is provided for this table
 }
 \item \code{DYCOL03}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description is provided for this table
 }
 \item \code{DYCOL04}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description is provided for this table
 }
 \item \code{DYCOL05}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description is provided for this table
 }
 }

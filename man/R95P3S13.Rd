@@ -41,7 +41,7 @@ A data frame with 7 columns:
 }
 \item \code{DYCOL06}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 }

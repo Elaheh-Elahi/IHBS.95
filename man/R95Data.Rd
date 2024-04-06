@@ -81,67 +81,67 @@ A data frame with 27 columns:
 }
 \item \code{fStat}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{fEnt}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{fvfy}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{user1}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{user2}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{user3}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{user4}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{Tekrari}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{Bakhsh}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{ShrDeh}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{Hozeh}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{BlkAbd}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{AbdName}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 }
